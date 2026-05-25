@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import numpy as np
 from connect4.policy import Policy
 
