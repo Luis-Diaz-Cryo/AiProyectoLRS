@@ -1,0 +1,241 @@
+matchup,game_id,red_agent,yellow_agent,winner_value,winner_name,illegal_by,red_time,yellow_time,turns
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,1,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,1.777334451675415,11.822664260864258,15
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,2,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.6175353527069092,8.520567655563354,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,3,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.5828676223754883,8.331726551055908,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,4,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,2.6395790576934814,9.79233717918396,15
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,5,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.6766707897186279,8.733049869537354,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,6,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,1.7546024322509766,9.938597917556763,11
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,7,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,1.8707306385040283,10.400542736053467,11
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,8,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.6655001640319824,8.838282346725464,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,9,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.7029314041137695,9.222405910491943,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,10,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.8169269561767578,8.542828798294067,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,11,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,2.6385066509246826,9.615969896316528,15
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,12,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.6704299449920654,8.490678548812866,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,13,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,1.3184351921081543,13.218568801879883,19
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,14,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.8033232688903809,8.438315629959106,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,15,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,1.8397724628448486,9.89914608001709,11
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,16,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.6666772365570068,8.427016973495483,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,17,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.9176967144012451,9.620865106582642,13
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,18,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,0.8386647701263428,8.396989822387695,9
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,19,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,2.2316179275512695,9.56386923789978,15
+Group A Santiago - MinimaxAlphaBeta vs Group B Ricardo - MCTS_UCB1,20,Group A Santiago - MinimaxAlphaBeta,Group B Ricardo - MCTS_UCB1,-1,Group A Santiago - MinimaxAlphaBeta,,2.0856757164001465,9.738160133361816,15
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,1,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.59535002708435,2.205667734146118,16
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,2,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.7371244430542,1.7300183773040771,14
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,3,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,9.741603136062622,0.9254550933837891,8
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,4,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.460332155227661,4.415322780609131,16
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,5,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.384996175765991,3.4366848468780518,16
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,6,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,15.60425353050232,3.140061378479004,16
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,7,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.298027753829956,1.9518511295318604,14
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,8,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,9.638585329055786,1.035851001739502,8
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,9,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,9.926414966583252,1.0490734577178955,8
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,10,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.455024003982544,1.74452543258667,14
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,11,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.72050404548645,3.537978410720825,18
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,12,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.281162023544312,0.7186028957366943,12
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,13,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.741864681243896,4.411321640014648,16
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,14,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.39821457862854,3.7264931201934814,18
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,15,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.350393295288086,2.262838125228882,14
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,16,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.521001100540161,2.3543083667755127,18
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,17,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,9.843733549118042,1.034963607788086,8
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,18,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.701444149017334,3.479503870010376,16
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,19,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,13.322865009307861,2.992365837097168,16
+Group B Ricardo - MCTS_UCB1 vs Group A Santiago - MinimaxAlphaBeta,20,Group B Ricardo - MCTS_UCB1,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,9.895507574081421,1.0633127689361572,8
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,1,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.5948078632354736,6.388058662414551,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,2,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.641089916229248,6.177086353302002,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,3,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.5841076374053955,6.164507627487183,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,4,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6246206760406494,6.271726131439209,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,5,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.5993142127990723,6.2628173828125,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,6,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.667085886001587,6.4850382804870605,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,7,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6525611877441406,6.271597623825073,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,8,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6663978099822998,6.580013275146484,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,9,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6802175045013428,6.391512870788574,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,10,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6209254264831543,6.236927032470703,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,11,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6237380504608154,6.257990598678589,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,12,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6743993759155273,6.312184572219849,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,13,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.632220983505249,6.5243799686431885,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,14,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6543340682983398,6.406005144119263,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,15,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.5931053161621094,6.344524621963501,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,16,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.591843843460083,6.275092363357544,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,17,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6282365322113037,6.312511444091797,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,18,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.624375343322754,6.275618076324463,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,19,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6141328811645508,6.296794176101685,35
+Group A Santiago - MinimaxAlphaBeta vs Group C Luis - TacticalExpectimax,20,Group A Santiago - MinimaxAlphaBeta,Group C Luis - TacticalExpectimax,-1,Group A Santiago - MinimaxAlphaBeta,,1.6318116188049316,6.290169715881348,35
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,1,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.118818283081055,4.4220592975616455,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,2,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.07056212425232,4.354889392852783,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,3,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.098985195159912,4.3601038455963135,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,4,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.096370220184326,4.35490870475769,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,5,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,7.993222713470459,4.306858539581299,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,6,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,7.94078254699707,4.317812204360962,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,7,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.06056833267212,4.582208871841431,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,8,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.136677503585815,4.362159013748169,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,9,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.251916408538818,4.412991762161255,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,10,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.160989761352539,4.497992038726807,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,11,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.320773839950562,4.499441385269165,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,12,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.046572208404541,4.416327714920044,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,13,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.095674514770508,4.3343729972839355,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,14,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.033453702926636,4.3728227615356445,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,15,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,7.983730316162109,4.328049898147583,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,16,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.059061050415039,4.347009181976318,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,17,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.101759910583496,4.342999458312988,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,18,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.001355648040771,4.354785203933716,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,19,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.040849208831787,4.360633611679077,36
+Group C Luis - TacticalExpectimax vs Group A Santiago - MinimaxAlphaBeta,20,Group C Luis - TacticalExpectimax,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,8.014083862304688,4.314226388931274,36
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,1,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,2.640021324157715,4.482269287109375e-05,13
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,2,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.7047502994537354,2.8133392333984375e-05,9
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,3,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.9023945331573486,3.528594970703125e-05,11
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,4,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.3798627853393555,2.5987625122070312e-05,9
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,5,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.4470529556274414,1.8358230590820312e-05,7
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,6,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.2580516338348389,2.6464462280273438e-05,9
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,7,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.788454532623291,3.170967102050781e-05,11
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,8,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.650834321975708,2.5272369384765625e-05,9
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,9,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.7171547412872314,3.4809112548828125e-05,11
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,10,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.3707785606384277,2.956390380859375e-05,11
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,11,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,2.3451755046844482,3.7670135498046875e-05,13
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,12,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,3.691678285598755,3.9577484130859375e-05,15
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,13,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.4062368869781494,1.6689300537109375e-05,7
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,14,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.3335533142089844,1.7404556274414062e-05,7
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,15,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.7158315181732178,2.9325485229492188e-05,11
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,16,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.9848196506500244,2.8371810913085938e-05,11
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,17,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.3141329288482666,2.1457672119140625e-05,9
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,18,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,0.391925573348999,1.621246337890625e-05,7
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,19,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.7481703758239746,2.6702880859375e-05,11
+Group A Santiago - MinimaxAlphaBeta vs RandomPolicy,20,Group A Santiago - MinimaxAlphaBeta,RandomPolicy,-1,Group A Santiago - MinimaxAlphaBeta,,1.299638271331787,3.814697265625e-05,15
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,1,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,3.743171691894531e-05,1.8408453464508057,12
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,2,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,7.724761962890625e-05,4.640334844589233,20
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,3,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,0.00010418891906738281,3.2155208587646484,28
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,4,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.8848648071289062e-05,1.6998536586761475,10
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,5,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.6702880859375e-05,0.4120955467224121,8
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,6,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,5.936622619628906e-05,4.3376305103302,20
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,7,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.6226043701171875e-05,0.32987213134765625,8
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,8,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.6464462280273438e-05,1.4852440357208252,10
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,9,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.288818359375e-05,0.31403088569641113,8
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,10,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.8848648071289062e-05,0.8437471389770508,10
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,11,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,3.719329833984375e-05,2.1823534965515137,14
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,12,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.8371810913085938e-05,0.6291580200195312,10
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,13,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.7418136596679688e-05,0.5445442199707031,10
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,14,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.765655517578125e-05,0.8140842914581299,10
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,15,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.1457672119140625e-05,0.5165197849273682,8
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,16,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,4.315376281738281e-05,1.5607285499572754,16
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,17,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.09808349609375e-05,0.3638308048248291,8
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,18,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.0742416381835938e-05,0.333099365234375,8
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,19,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,3.743171691894531e-05,1.512268304824829,14
+RandomPolicy vs Group A Santiago - MinimaxAlphaBeta,20,RandomPolicy,Group A Santiago - MinimaxAlphaBeta,1,Group A Santiago - MinimaxAlphaBeta,,2.0742416381835938e-05,0.5006368160247803,8
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,1,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.18069338798523,6.506385326385498,18
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,2,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,10.006919384002686,2.059394121170044,8
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,3,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.787450075149536,5.716001272201538,16
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,4,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,9.529618740081787,1.9266877174377441,8
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,5,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,9.219043731689453,1.9920690059661865,8
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,6,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,10.017708778381348,2.06239914894104,8
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,7,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.718794345855713,7.17134428024292,18
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,8,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.494188070297241,3.7442564964294434,12
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,9,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,14.530746936798096,3.9105422496795654,12
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,10,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.59389853477478,6.930313587188721,18
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,11,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,12.903327465057373,6.538002014160156,18
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,12,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,9.383771896362305,2.054826259613037,8
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,13,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.772828817367554,6.476792812347412,18
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,14,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.163964986801147,3.9524216651916504,12
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,15,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,9.885516166687012,2.0371832847595215,8
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,16,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.882548570632935,6.69026780128479,18
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,17,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.008360624313354,6.920993089675903,18
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,18,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.555688858032227,5.47637414932251,16
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,19,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,13.766454696655273,4.798528432846069,16
+Group B Ricardo - MCTS_UCB1 vs Group C Luis - TacticalExpectimax,20,Group B Ricardo - MCTS_UCB1,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,10.121000051498413,2.1080446243286133,8
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,1,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9960346221923828,6.039298057556152,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,2,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,2.0155153274536133,6.211735725402832,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,3,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9358465671539307,5.7250776290893555,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,4,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,2.00358510017395,6.019094467163086,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,5,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.992621660232544,6.362794399261475,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,6,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,2.1241161823272705,6.318310022354126,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,7,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,2.0472464561462402,6.210178852081299,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,8,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9987521171569824,5.872194528579712,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,9,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9450569152832031,5.849609375,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,10,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.925086498260498,5.787247180938721,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,11,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9198377132415771,5.7051355838775635,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,12,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9170212745666504,5.718505620956421,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,13,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9330060482025146,5.774554491043091,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,14,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9050312042236328,6.100592374801636,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,15,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.914210557937622,5.706101894378662,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,16,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9121370315551758,5.806714296340942,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,17,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9093842506408691,5.602435827255249,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,18,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9395241737365723,6.114196062088013,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,19,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.9179463386535645,5.889391660690308,7
+Group C Luis - TacticalExpectimax vs Group B Ricardo - MCTS_UCB1,20,Group C Luis - TacticalExpectimax,Group B Ricardo - MCTS_UCB1,-1,Group C Luis - TacticalExpectimax,,1.8719782829284668,6.160078048706055,7
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,1,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,23.93401026725769,8.487701416015625e-05,37
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,2,Group B Ricardo - MCTS_UCB1,RandomPolicy,1,RandomPolicy,,21.50857448577881,7.224082946777344e-05,30
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,3,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,18.68602967262268,3.9577484130859375e-05,17
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,4,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,20.099773168563843,6.961822509765625e-05,31
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,5,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,26.522930145263672,7.43865966796875e-05,31
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,6,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,21.554280757904053,4.76837158203125e-05,21
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,7,Group B Ricardo - MCTS_UCB1,RandomPolicy,1,RandomPolicy,,26.766362190246582,7.009506225585938e-05,26
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,8,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,19.723610401153564,4.7206878662109375e-05,19
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,9,Group B Ricardo - MCTS_UCB1,RandomPolicy,1,RandomPolicy,,25.122466325759888,7.104873657226562e-05,28
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,10,Group B Ricardo - MCTS_UCB1,RandomPolicy,1,RandomPolicy,,24.932913303375244,7.271766662597656e-05,30
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,11,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,16.129002332687378,4.410743713378906e-05,23
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,12,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,19.247397661209106,5.030632019042969e-05,23
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,13,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,25.066647052764893,6.985664367675781e-05,33
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,14,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,18.593576431274414,5.626678466796875e-05,25
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,15,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,20.23183298110962,7.176399230957031e-05,31
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,16,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,19.527276754379272,7.534027099609375e-05,33
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,17,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,27.173359870910645,7.176399230957031e-05,31
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,18,Group B Ricardo - MCTS_UCB1,RandomPolicy,1,RandomPolicy,,20.216655254364014,9.059906005859375e-05,26
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,19,Group B Ricardo - MCTS_UCB1,RandomPolicy,1,RandomPolicy,,31.246026277542114,0.00010442733764648438,40
+Group B Ricardo - MCTS_UCB1 vs RandomPolicy,20,Group B Ricardo - MCTS_UCB1,RandomPolicy,-1,Group B Ricardo - MCTS_UCB1,,23.157591104507446,7.724761962890625e-05,35
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,1,RandomPolicy,Group B Ricardo - MCTS_UCB1,-1,RandomPolicy,,7.390975952148438e-05,17.140334129333496,29
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,2,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,5.793571472167969e-05,14.875528573989868,26
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,3,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,4.38690185546875e-05,14.694538116455078,18
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,4,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,4.553794860839844e-05,15.28598141670227,18
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,5,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,5.698204040527344e-05,18.843376398086548,24
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,6,RandomPolicy,Group B Ricardo - MCTS_UCB1,-1,RandomPolicy,,5.984306335449219e-05,20.624547004699707,23
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,7,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,5.7697296142578125e-05,17.74621891975403,24
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,8,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,3.743171691894531e-05,14.60004210472107,16
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,9,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,8.296966552734375e-05,25.603216648101807,36
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,10,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,6.580352783203125e-05,19.152442455291748,32
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,11,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,5.078315734863281e-05,11.642208814620972,22
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,12,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,6.079673767089844e-05,23.063310623168945,24
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,13,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,6.842613220214844e-05,18.575066089630127,30
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,14,RandomPolicy,Group B Ricardo - MCTS_UCB1,-1,RandomPolicy,,5.936622619628906e-05,21.449008464813232,23
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,15,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,5.841255187988281e-05,13.438071489334106,28
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,16,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,7.104873657226562e-05,22.245145082473755,28
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,17,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,5.91278076171875e-05,14.230718612670898,28
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,18,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,6.318092346191406e-05,21.38626742362976,26
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,19,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,5.53131103515625e-05,20.91052222251892,24
+RandomPolicy vs Group B Ricardo - MCTS_UCB1,20,RandomPolicy,Group B Ricardo - MCTS_UCB1,1,Group B Ricardo - MCTS_UCB1,,6.890296936035156e-05,19.805941820144653,30
+Group C Luis - TacticalExpectimax vs RandomPolicy,1,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,3.6367287635803223,2.956390380859375e-05,11
+Group C Luis - TacticalExpectimax vs RandomPolicy,2,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,2.1239259243011475,1.9311904907226562e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,3,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9221153259277344,1.811981201171875e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,4,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.934389352798462,1.71661376953125e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,5,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9478189945220947,1.7404556274414062e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,6,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9264886379241943,1.811981201171875e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,7,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.961362361907959,1.621246337890625e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,8,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.945528507232666,1.71661376953125e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,9,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9924261569976807,1.7881393432617188e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,10,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,2.059145212173462,1.811981201171875e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,11,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,2.006772756576538,1.6927719116210938e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,12,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.988633394241333,1.811981201171875e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,13,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9744455814361572,1.6927719116210938e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,14,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9329707622528076,1.71661376953125e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,15,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,2.013878583908081,1.621246337890625e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,16,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.95444917678833,1.7642974853515625e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,17,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.973890781402588,1.7881393432617188e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,18,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9544129371643066,1.621246337890625e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,19,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,2.0031661987304688,1.7404556274414062e-05,7
+Group C Luis - TacticalExpectimax vs RandomPolicy,20,Group C Luis - TacticalExpectimax,RandomPolicy,-1,Group C Luis - TacticalExpectimax,,1.9118616580963135,1.621246337890625e-05,7
+RandomPolicy vs Group C Luis - TacticalExpectimax,1,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.1696090698242188e-05,2.015328884124756,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,2,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.9802322387695312e-05,2.9928131103515625,10
+RandomPolicy vs Group C Luis - TacticalExpectimax,3,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.5272369384765625e-05,2.137040138244629,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,4,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.3126602172851562e-05,2.0561869144439697,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,5,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,1.9788742065429688e-05,2.0762085914611816,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,6,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.288818359375e-05,2.105250597000122,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,7,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.0265579223632812e-05,2.064417600631714,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,8,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.574920654296875e-05,2.839972496032715,10
+RandomPolicy vs Group C Luis - TacticalExpectimax,9,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.956390380859375e-05,3.0193490982055664,12
+RandomPolicy vs Group C Luis - TacticalExpectimax,10,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.6941299438476562e-05,2.8354103565216064,10
+RandomPolicy vs Group C Luis - TacticalExpectimax,11,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.193450927734375e-05,2.0809478759765625,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,12,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.288818359375e-05,2.102604389190674,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,13,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,4.220008850097656e-05,5.438040733337402,16
+RandomPolicy vs Group C Luis - TacticalExpectimax,14,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,1.9550323486328125e-05,2.0163254737854004,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,15,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.0742416381835938e-05,1.9618818759918213,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,16,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.002716064453125e-05,2.047579526901245,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,17,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,5.6743621826171875e-05,7.8044188022613525,22
+RandomPolicy vs Group C Luis - TacticalExpectimax,18,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.2411346435546875e-05,2.104340076446533,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,19,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.0503997802734375e-05,2.1246893405914307,8
+RandomPolicy vs Group C Luis - TacticalExpectimax,20,RandomPolicy,Group C Luis - TacticalExpectimax,1,Group C Luis - TacticalExpectimax,,2.002716064453125e-05,1.9485418796539307,8
